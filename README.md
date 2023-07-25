@@ -1,6 +1,6 @@
 # Oomph Console Plugin
 
-Update Site for the Oomph Console Plugin 1.0.3
+Update Site for the Oomph Console Plugin 1.0.4
 
 Navigate to [https://a-langer.github.io/eclipse-oomph-console-site][0] to access the update site. See source on [GitHub][1].
 
